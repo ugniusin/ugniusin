@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Ugnius 👋
+
+Personal account. Most of my work is in private company repos.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugnius-sinonis/)](https://www.linkedin.com/in/ugnius-sinonis/)
 
 <!--
 **ugniusin/ugniusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
